@@ -1,7 +1,7 @@
 # anime
- Projeto de recomendações de anime baseado em datasets fornecidos pela API do myanimelist.net
+Projeto de recomendações de anime baseado em datasets extraidos utilizando a API do myanimelist.net
  
- Me inspirei em um projeto similar encontrado no : <a href="https://www.kaggle.com/yonatanrabinovich/anime-recommendations-project/notebook" target="_blank">Kaggle</a>
+Me inspirei em um projeto encontrado do Kaggle
  
- Neste projeto, busquei e apliquei conhecimento sobre o Pandas, Scipy, NumPy e SKLearn (Utilizando o modelo de ML Cosine Similarity). 
+Neste projeto, busquei e apliquei conhecimento sobre manipulação e tratamento de dados utilizando o Pandas. Também apliquei um modelo de machine learning, utilizando a semelhança de cossenos (Cosine Similarity). 
  
